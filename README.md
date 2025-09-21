@@ -1,4 +1,4 @@
-![quantum](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJyeHFsdjBoZmI3cGM4eGd3ODB0dHAwMWprb2Q5OWxuYmZ1bW1uYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/obT4MfCI9FLuU/giphy.gif)
+![largehadroncollider](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJyeHFsdjBoZmI3cGM4eGd3ODB0dHAwMWprb2Q5OWxuYmZ1bW1uYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/obT4MfCI9FLuU/giphy.gif)
 # Hi , I'm Soham  
 
 🎓 I'm a **first-year student** studying **Artificial Intelligence & Data Science Engineering**.  
