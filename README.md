@@ -45,4 +45,6 @@
 ---
 
 ✨ *This profile is a work in progress, just like me. Stick around to see it grow!* ✨
+![cuties](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd3OXR5dG0wOWwwbHl6Y2Y4MDZ6Ymh0ZzduaGYzMjB3bTlveXQ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hO58ejrIKFIkw/giphy.gif)
+
 
