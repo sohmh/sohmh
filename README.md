@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi , I'm Soham  
 
-<!--
-**sohmh/sohmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **first-year student** studying **Artificial Intelligence & Data Science Engineering**.  
+💡 An **aspiring polymath**, I love learning across disciplines and connecting ideas.  
+🔭 My curiosity pushes me towards **research**, especially at the intersection of **computers & physics**.  
+🌱 Currently, I'm starting my journey into coding through **[Harvard CS50x](https://cs50.harvard.edu/x/)** and documenting my progress on GitHub.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm up to
+- 📘 Learning **computer science fundamentals** with CS50x  
+- 🧑‍💻 Sharing my journey in my [CS50x Repository](https://github.com/sohmh/CS50x-progress)  
+- 🌐 Exploring AI, data science, and Applications in physics.
+
+---
+
+## 📚 Interests
+- Artificial Intelligence & Machine Learning  
+- Computational Physics  
+- Data Science & Research  
+- Cross-disciplinary problem-solving
+- Breakthroughs in Quantum Computing
+
+---
+
+## 🌟 Goals
+- Build strong programming foundations  
+- Contribute to open-source projects  
+- Explore research opportunities in AI + Physics  
+- Grow step by step into a **well-rounded researcher**  
+
+---
+
+## 🛠️ Tech Stack (in progress...)
+- **Learning:** C 
+- **Next Steps:** 
+
+---
+
+## 🤝 Let's Connect!
+- 📫 Reach me here on [GitHub](https://github.com/sohmh)  
+- 💭 Always open to discussions about science, tech, or big ideas  
+
+---
+
+✨ *This profile is a work in progress, just like me. Stick around to see it grow!* ✨
+
