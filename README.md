@@ -43,6 +43,7 @@
 - 💭 Always open to discussions about science, tech, or big ideas  
 
 ---
+[![An image of @sohmh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohmh)](https://holopin.io/@sohmh)
 
 ✨ *This profile is a work in progress, just like me. Stick around to see it grow!* ✨
 ![cuties](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd3OXR5dG0wOWwwbHl6Y2Y4MDZ6Ymh0ZzduaGYzMjB3bTlveXQ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hO58ejrIKFIkw/giphy.gif)
