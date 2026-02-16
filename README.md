@@ -4,13 +4,13 @@
 🎓 I'm a **first-year student** studying **Artificial Intelligence & Data Science Engineering**.  
 💡 An **aspiring polymath**, I love learning across disciplines and connecting ideas.  
 🔭 My curiosity pushes me towards **research**, especially at the intersection of **computers & physics**.  
-🌱 Currently, I'm starting my journey into coding through **[Harvard CS50x](https://cs50.harvard.edu/x/)** and documenting my progress on GitHub.  
+🌱 Currently, I'm in python coding journey and documenting my progress on GitHub.  
 
 ---
 
 ## 🚀 What I'm up to
-- 📘 Learning **computer science fundamentals** with CS50x  
-- 🧑‍💻 Sharing my journey in my [CS50x Repository](https://github.com/sohmh/CS50x-progress)  
+- 📘 Learning **Python fundamentals** with Kaggle
+- 🧑‍💻 Sharing my journey & projects in my repositories
 - 🌐 Exploring AI, data science, and Applications in physics.
 
 ---
@@ -33,14 +33,25 @@
 ---
 
 ## 🛠️ Tech Stack (in progress...)
-- **Learning:** C 
-- **Next Steps:** 
+- **Learning:** Python & Calculus
+- **Next Steps:** C++
 
 ---
 
 ## 🤝 Let's Connect!
 - 📫 Reach me here on [GitHub](https://github.com/sohmh)  
-- 💭 Always open to discussions about science, tech, or big ideas  
+- 💭 Always open to discussions about science, tech, or big ideas
+
+<br>
+
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/7smv25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soham-gurav-94b6b3384)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-woad-three-57.vercel.app/)
+
+
+
+
+
 
 ---
 [![@[sohmh]'s Holopin badges](https://holopin.me/sohmh)](https://holopin.io/@sohmh)
