@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ADD_BANNER_IMAGE_LINK_HERE" alt="banner" width="100%" />
+<img src="https://github.com/sohmh/sohmh/blob/main/sebvettelheader.jpg?raw=true" alt="banner" width="100%" />
 
 </div>
 
@@ -8,15 +8,17 @@
 
 <div align="center">
 
-[Portfolio](https://sohmh.github.io/smv-profile/) &nbsp;·&nbsp; [X](https://x.com/7smv25) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/soham-gurav-94b6b3384/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@sohmhg)
+[portfolio](https://sohmh.github.io/smv-profile/) &nbsp;·&nbsp; [x](https://x.com/7smv25) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/soham-gurav-94b6b3384/) &nbsp;·&nbsp; [youtube](https://www.youtube.com/@sohmhg)
 
 </div>
 
 <br>
 
 <div align="center">
++python//agentic workflow 
+  
+=linearalgebra//aerodynamics//vd
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+-c++
 
 </div>
