@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/sohmh/sohmh/blob/main/sebvettelheader.jpg?raw=true" alt="banner" width="100%" />
+<img src="https://github.com/sohmh/sohmh/blob/main/thesebvettelheader.jpg?raw=true" alt="banner" width="100%" />
 
 </div>
 
