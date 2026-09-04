@@ -15,10 +15,10 @@
 <br>
 
 <div align="center">
-+python//agentic workflow 
++ python // agentic workflow // web-scraping
   
-=linearalgebra//aerodynamics//vd
+= linearalgebra // probability // numerical methods
 
--c++
+-c++ // computational physics
 
 </div>
