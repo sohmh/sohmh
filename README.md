@@ -20,13 +20,12 @@
 = linearalgebra // probability // numerical methods
 
 -c++ // computational physics
-
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,eclipse,fastapi,figma,ai,latex,matlab,nodejs,notion,obsidian,npm,"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,eclipse,fastapi,figma,ai,latex"/>
 </div>
 
 <div align="center">
-<img src = "https://skillicons.dev/icons?i=powershell,supabase,vercel,vite,"/>
+<img src = "https://skillicons.dev/icons?i=powershell,supabase,vercel,vite,,matlab,nodejs,notion,obsidian,npm,linkedin"/>
 </div>
