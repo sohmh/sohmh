@@ -25,6 +25,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,discord,eclipse,fastapi,figma,ai,latex,linkedin,matlab,nodejs,notion,obsidian,npm,powershell,supabase,vercel,vite,"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,eclipse,fastapi,figma,ai,latex,matlab,nodejs,notion,obsidian,npm,powershell,supabase,vercel,vite,"/>
 
 </div>
