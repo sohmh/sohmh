@@ -22,5 +22,8 @@
 -c++ // computational physics
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,vscode,eclipse,fastapi,figma,ai,latex,powershell,supabase,vercel,vite,,matlab,nodejs,notion,obsidian,npm,linkedin&perline=3)](https://skillicons.dev)
+<p align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,vscode,eclipse,fastapi,figma,ai,latex,powershell,supabase,vercel,vite,,matlab,nodejs,notion,obsidian,npm,linkedin&perline=5)](https://skillicons.dev)
 
+</p>
